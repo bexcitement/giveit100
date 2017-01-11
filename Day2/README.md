@@ -21,6 +21,7 @@ from Deliberatism - The Muck, by Eric Karjaluoto
  - [JavaScript’s Apply, Call, and Bind Methods are Essential for JavaScript Professionals](http://javascriptissexy.com/javascript-apply-call-and-bind-methods-are-essential-for-javascript-professionals/)
  - [template strings](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/template_strings)
  - [Exploring ES6: Modules by Dr. Axel Rauschmayer](http://exploringjs.com/es6/ch_modules.html)
+ - [Safari is the new IE](https://nolanlawson.com/2015/06/30/safari-is-the-new-ie/)
 
 
 #### ---- Full Notes -----
