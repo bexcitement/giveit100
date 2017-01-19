@@ -8,6 +8,6 @@ To this end, I am embarking on a #giveit100 adventure to carve out time to learn
 
 Along the way, I'll be chronicalling the things I'll be watching, learning, reading and coding to help with deeper learning for myself now and as a reference for furture me. In doing this, hopefully others will also be able to discover some great resources for learning.
 
-In short, each day for the next 100 days I am be committing to learning and documenting one newly learned or relearned thing about JavaScript. I'll be keeping my notes as a README for each day in a folder within this repo.
+In short, each work day for the next 100 days I am be committing to learning and documenting one newly learned or relearned thing about JavaScript. I'll be keeping my notes as a README for each day in a folder within this repo.
 
 Happy coding!
